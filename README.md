@@ -19,5 +19,6 @@
     - 회원가입 및 게시판 구현
     
 ![image](https://user-images.githubusercontent.com/26050767/87267500-d6a58680-c502-11ea-850b-86c0b4f6c8c6.png)
+![image](https://user-images.githubusercontent.com/26050767/87267615-1f5d3f80-c503-11ea-8446-9ff7d91cd301.png)
 
     
